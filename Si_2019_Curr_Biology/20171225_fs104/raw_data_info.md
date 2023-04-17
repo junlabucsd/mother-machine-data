@@ -9,9 +9,9 @@ https://drive.google.com/file/d/1xL8VQzO7oFj_I-HoYDbsN5yiaS4D5X_5/view?usp=share
 Images were obtained on an inverted microscope (Nikon Ti-E) with Perfect Focus 3 (PFS3), 100x oil immersion objective (PH3, numerical aperture = 1.45), and Obis laser 488LX(Coherent Inc., CA) as a fluorescence light source, and an Andor NEO sCMOS (Andor Technology) camera. The laser power was 18 mW. The exposure time was 200 ms for phase contrast imaging and 50 ms for fluorescence.
 
 ### Experimental conditions
-`Strain` _E. coli_ MG1655 background
+`Strain` _E. coli_ MG1655 F- λ- rph-1 DnaN-Ypet (kanamycin resistant)
 
-`Growth medium` MOPS 0.4% glycerol + 11 amino acids
+`Growth medium` MOPS 0.4% glycerol + 11 amino acids. See reference for detailed media recipe.
 
 `Temperature` 37C
 
