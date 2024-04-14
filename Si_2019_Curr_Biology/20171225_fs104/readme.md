@@ -16,7 +16,9 @@ Images were obtained on an inverted microscope (Nikon Ti-E) with Perfect Focus 3
 `Temperature` 37C
 
 
-### Reference
+### References
+
+#### Raw data source
 Fangwei Si, Guillaume Le Treut, John T. Sauls, Stephen Vadia, Petra Anne Levin, Suckjoon Jun,
 Mechanistic Origin of Cell-Size Control and Homeostasis in Bacteria,
 Current Biology,
@@ -27,3 +29,7 @@ ISSN 0960-9822,
 https://doi.org/10.1016/j.cub.2019.04.062.
 (https://www.sciencedirect.com/science/article/pii/S0960982219304919)
 
+#### Secondary source
+Data was reanalyzed in:
+
+Tools and methods for high-throughput single-cell imaging with the mother machine. Ryan Thiermann, Michael Sandler, Gursharan Ahir, John T. Sauls, Jeremy W. Schroeder, Steven D. Brown, Guillaume Le Treut, Fangwei Si, Dongyang Li, Jue D. Wang, Suckjoon Jun. eLife12:RP88463 https://doi.org/10.7554/eLife.88463.1
